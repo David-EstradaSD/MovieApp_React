@@ -1,7 +1,7 @@
 # MovieApp_React  ( _Star Wars Films_ )
 
 ### Overview
-_MovieApp_React_ is my first React app that I connected to a database. I built this for fun while teaching myself React.
+_MovieApp_React_ is my first React app that I connected to a database. Technically, I used a web API ( not an actual DB ) for simplicity. I built this for fun while teaching myself React.
 
 ### Technologies
 * JavaScript, React
