@@ -1,7 +1,7 @@
 # MovieApp_React  ( _Star Wars Films_ )
 
 ### Overview
-_MovieApp_React_ is my first React app that I connected to a database. Technically, I used a web REST API ( not an actual DB ) for simplicity. I built this for fun while teaching myself React.
+_MovieApp_React_ is my first React app that I connected to a database. Initially, I used a web REST API ( [Star Wars API](https://swapi.dev/) ) for simplicity. Then, I used [Google Firebase](https://firebase.google.com/) to perform CRUD functionality with a database. I built this for fun while teaching myself React.
 
 ### Technologies
 * JavaScript, React
