@@ -6,6 +6,7 @@ _MovieApp_React_ is my first React app that I connected to a database. Initially
 ### Technologies
 * JavaScript, React
 * [SWAPI](https://swapi.dev/) ( The Star Wars REST API )
+* [Google Firebase](https://firebase.google.com/)
 * OOP fundamentals:
   * Inheritance
   * Re-usable components
